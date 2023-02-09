@@ -1,5 +1,5 @@
 # Semantics-Preserving Sketch Embedding for Face Generation
-![Teaser](figure/teaser.jpg)
+![Teaser](figure/teaser_1.jpg)
 ### [Paper](https://arxiv.org/abs/2211.13015) 
 <!-- <br> -->
 [Binxin Yang](https://orcid.org/0000-0003-4110-1986), [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/), Chaoqun Wang, Chi Zhang, Zihan Chen, [Xiaoyan Sun](http://staff.ustc.edu.cn/~xysun720/).
